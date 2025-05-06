@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body{
-    background: linear-gradient(to right, #00ff84a0, #0073ffc9);
+    background: linear-gradient(to right, #0ae70dd5, #340dc4c9);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -49,3 +49,4 @@ h3{
 #generate-btn:hover{
     transform: scale(0.9);
 }
+
